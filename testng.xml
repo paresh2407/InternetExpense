@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="InternetExpenseSuite">
+  <test thread-count="5" name="InternetExpenseTest">
+  	<classes>
+  		<class name="com.talent.internetExpense.TestRunner" />
+  	</classes>
+  </test> <!-- InternetExpenseTest -->
+</suite> <!-- InternetExpenseSuite -->
