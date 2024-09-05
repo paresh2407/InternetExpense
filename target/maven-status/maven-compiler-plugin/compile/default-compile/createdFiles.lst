@@ -1,0 +1,5 @@
+com\talent\pages\BasePage.class
+com\talent\pages\ServiceCentralHomePage.class
+com\talent\pages\TalentHomePage.class
+com\talent\internetExpense\App.class
+com\talent\pages\InternetExpenseRequestPage.class

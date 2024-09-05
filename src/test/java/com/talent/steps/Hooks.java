@@ -23,7 +23,8 @@ public class Hooks extends BaseStep{
 			WebDriverManager.chromedriver().setup();
 			ChromeOptions options = new ChromeOptions();
 			// to maximize the screen
-			options.addArguments("--start-maximized");
+			options.addArguments("--headless=new");
+//			options.addArguments("--start-maximized");
 			// to disable the notifications by browser
 			options.addArguments("--disable-notifications");
 			driver = new ChromeDriver(options);

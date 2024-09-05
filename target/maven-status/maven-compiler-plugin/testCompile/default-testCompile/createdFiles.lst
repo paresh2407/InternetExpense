@@ -1,0 +1,4 @@
+com\talent\internetExpense\TestRunner.class
+com\talent\steps\BaseStep.class
+com\talent\steps\Hooks.class
+com\talent\steps\TalentHomeStep.class
